@@ -5,7 +5,7 @@
     "author": "ChemicalRascal",
     "contact": "nod.helm@gmail.com",
     "homepage": "",
-    "factorio_version": "1.0.0",
+    "factorio_version": "1.0",
     "dependencies": ["base >= 0.18"],
     "description": "Adds additional autosaves, that don't overwrite each other."
 }
